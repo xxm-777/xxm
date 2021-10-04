@@ -1,8 +1,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
-    <head>
+<head>
         <title>袜袜子 - Home</title>
 
         <meta charset="utf-8">
@@ -137,11 +136,8 @@
    
    <!-- Wow JavaScript -->
    <script src="js/wow.js"></script>
-    
-   <script>
+    <script>
    new WOW().init();
    </script>
-
-
 </body>
 </html>
